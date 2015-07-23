@@ -23,11 +23,13 @@ chmod a+x ./app.py
 1. GET /games
 
 This will provide all the games gathered when looking for top ps3 games on metacritic
+
 EXAMPLE - `curl -XGET http://localhost:5000/games`
 
 2.GET /games/${GAME_TITLE}
 
 This will grab game titel data only
+
 EXAMPLE - `curl -XGET http://localhost:5000/games/The%20Last%20of%20Us:%20Left%20Behind`
 
 All requests made will be in JSON format
