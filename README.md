@@ -5,7 +5,7 @@ This program is to help parse 'Top PS3 Games' from http://www.metacritic.com/gam
 
 ## What to install
 * python-virtualenv
-.* `sudo aptitude install python-virtualenv -y`
+`sudo aptitude install python-virtualenv -y`
 
 ## How to setup environment
 ```
@@ -34,4 +34,4 @@ ALL GAMES
 ![](https://github.com/bdflemin/petulant-octo-dubstep/blob/master/images/all_games.png)
 
 SINGLE GAME
-![](https://github.com/bdflemin/petulant-octo-dubstep/blob/master/images/single_games.png)
+![](https://github.com/bdflemin/petulant-octo-dubstep/blob/master/images/single_game.png)
